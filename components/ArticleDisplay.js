@@ -14,7 +14,7 @@ const ArticleDisplay = ({ setPostUrl, title, article, mediaArr }) => {
     
     const url = 'https://www.tesla-mag.com/wp-json/wp/v2/posts';
     const username = 'Teslam';
-    const password = 'gUa*TNSSZ5QLIy#t*Ts';
+    const password = 'gUa*TNSSZ5QLIy#t*T';
     const auth = 'Basic ' + Buffer.from(username + ':' + password).toString('base64');
 
     const articleData = {
