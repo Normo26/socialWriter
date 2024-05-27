@@ -1,0 +1,5 @@
+{
+  "/api/get-tweet-new/route": "app/api/get-tweet-new/route.js",
+  "/page": "app/page.js",
+  "/api/generate-article/route": "app/api/generate-article/route.js"
+}
